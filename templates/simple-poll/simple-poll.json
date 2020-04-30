@@ -1,0 +1,38 @@
+{
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*What would you like to do?* Poll by <https://netsuite-gbu.slack.com/archives/DE6QNFF60|RyMo>\nReact with an emoji to give your vote."
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":one: *This option is really cool*\nIt's the best option if you like to have fun."
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":two: *This option is best for groups*\nI hope you like your teammates."
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":three: *This option is stupid*\nSeriously - you're wasting your time."
+            }
+        },
+        {
+            "type": "divider"
+        }
+    ]
+}
