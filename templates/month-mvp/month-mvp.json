@@ -1,0 +1,60 @@
+{
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Congratulations to <https://netsuite-gbu.slack.com/archives/USERID|Some Name>*\nApril MVP Winner :clapping:"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "<@USERID> had an outstanding April, jumping *20 points* in the SC Constructors' Championship. He had key wins at *Client* _(Marc)_ and *Client* _(Peter)_, and was able to help out on Client _(SuitePeople)_ and Client _(WO&A qual)_. He also helped ramp some SW and GB folks on OpenAir, and presented on the OpenAir Product Roadmap call."
+            }
+        },
+        {
+            "type": "image",
+            "title": {
+                "type": "plain_text",
+                "text": "Some Name",
+                "emoji": true
+            },
+            "image_url": "http://via.placeholder.com/300x400",
+            "alt_text": "Some Name"
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*4* Engagements"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*2* Logos"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*$181k* Lead ARR"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$334k* Gross ARR"
+                }
+            ]
+        },
+        {
+            "type": "divider"
+        }
+    ]
+}

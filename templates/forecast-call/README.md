@@ -1,6 +1,6 @@
 # Forecast Call
 
-Create a simple poll using emoji reactions to count replies.
+Create a summary post from the sales forecast call.
 
 ## To Use
 
