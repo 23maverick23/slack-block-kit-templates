@@ -1,4 +1,4 @@
-#Simple Poll
+# Simple Poll
 
 Create a simple poll using emoji reactions to count replies.
 

@@ -1,0 +1,52 @@
+{
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":bar_chart: *Latest Services Forecast*\n\nVertical Commit: *$400k* | Upside: *$600k* \n_Comments: _"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*Team Grillo:*\nCommit: $100k | Upside: $150k \n_Specific deals:_"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*Team Adrian:*\nCommit: $100k | Upside: $150k \n_Specific deals:_"
+                }
+            ]
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*Team Nick:*\nCommit: $100k | Upside: $150k \n_Specific deals:_"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*Team Peck:*\nCommit: $100k | Upside: $150k \n_Specific deals:_"
+                }
+            ]
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": "As of: Monday, 30 Apr 2020"
+                }
+            ]
+        }
+    ]
+}
