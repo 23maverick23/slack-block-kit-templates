@@ -7,7 +7,9 @@ Click this link to access the [Block Kit Builder][url].
 ### Template Directory
 
 * [simple-poll][templates-simple-poll]
+* [forecast-call][templates-forecast-call]
 
 [url]: https://api.slack.com/tools/block-kit-builder
 
 [templates-simple-poll]: /templates/simple-poll/
+[templates-forecast-call]: /templates/forecast-call/
