@@ -1,0 +1,46 @@
+{
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "plain_text",
+                "emoji": true,
+                "text": "Looks like you have something planned later this week:"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Team Morrissey Happy Hour*\nThursday 07 May\n6:30pm ET | 3:30pm PT\nLocation: Zoom"
+            },
+            "accessory": {
+                "type": "image",
+                "image_url": "https://api.slack.com/img/blocks/bkb_template_images/notifications.png",
+                "alt_text": "calendar thumbnail"
+            }
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": "Meeting Theme: :pizza: *Pizza*"
+                }
+            ]
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*<https://oracle.zoom.us/j/8573997098?pwd=UkJQWFRBdnNERnZOc1BBcXVmSTdTdz09|Join Zoom Meeting>*"
+            }
+        }
+    ]
+}

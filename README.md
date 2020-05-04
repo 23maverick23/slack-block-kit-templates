@@ -6,12 +6,14 @@ Click this link to access the [Block Kit Builder][url].
 
 ### Template Directory
 
-* [simple-poll][templates-simple-poll]
-* [forecast-call][templates-forecast-call]
-* [month-mvp][templates-month-mvp]
+* [simple-poll][tmp-simple-poll]
+* [forecast-call][tmp-forecast-call]
+* [month-mvp][tmp-month-mvp]
+* [calendar-reminder][tmp-calendar-reminder]
 
 [url]: https://api.slack.com/tools/block-kit-builder
 
-[templates-simple-poll]: /templates/simple-poll/
-[templates-forecast-call]: /templates/forecast-call/
-[templates-month-mvp]: /templates/month-mvp/
+[tmp-simple-poll]: /templates/simple-poll/
+[tmp-forecast-call]: /templates/forecast-call/
+[tmp-month-mvp]: /templates/month-mvp/
+[tmp-calendar-reminder]: /templates/calendar-reminder/
