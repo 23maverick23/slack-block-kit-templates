@@ -39,7 +39,7 @@
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": "*<https://oracle.zoom.us/j/8573997098?pwd=UkJQWFRBdnNERnZOc1BBcXVmSTdTdz09|Join Zoom Meeting>*"
+                "text": "*<https://oracle.zoom.us/|Join Zoom Meeting>*"
             }
         }
     ]
