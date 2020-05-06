@@ -10,6 +10,7 @@ Click this link to access the [Block Kit Builder][url].
 * [forecast-call][tmp-forecast-call]
 * [month-mvp][tmp-month-mvp]
 * [calendar-reminder][tmp-calendar-reminder]
+* [calendar-invite][tmp-calendar-invite]
 
 [url]: https://api.slack.com/tools/block-kit-builder
 
@@ -17,3 +18,4 @@ Click this link to access the [Block Kit Builder][url].
 [tmp-forecast-call]: /templates/forecast-call/
 [tmp-month-mvp]: /templates/month-mvp/
 [tmp-calendar-reminder]: /templates/calendar-reminder/
+[tmp-calendar-invite]: /templates/calendar-invite/

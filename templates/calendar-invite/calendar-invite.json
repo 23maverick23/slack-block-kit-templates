@@ -1,0 +1,53 @@
+{
+    "blocks": [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "You've been invited to add this event to your calendar."
+            },
+            "accessory": {
+                "type": "button",
+                "style": "primary",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Add to Outlook"
+                },
+                "url": "https://www.someurl.com/invite.ics",
+                "value": "add_to_outlook"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Leading Practice Task Force*\nSession 1\nThursday, 14 May 2:00-3:00pm ET"
+            },
+            "accessory": {
+                "type": "image",
+                "image_url": "https://api.slack.com/img/blocks/bkb_template_images/notifications.png",
+                "alt_text": "calendar thumbnail"
+            }
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "image",
+                    "image_url": "https://api.slack.com/img/blocks/bkb_template_images/notificationsWarningIcon.png",
+                    "alt_text": "notifications warning icon"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "You must click *Add to Outlook* above to add this to your calendar!"
+                }
+            ]
+        },
+        {
+            "type": "divider"
+        }
+    ]
+}
