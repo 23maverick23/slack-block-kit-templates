@@ -1,0 +1,176 @@
+{
+    "blocks": [
+        {
+            "type": "image",
+            "image_url": "https://www.oracle.com/webfolder/technetwork/slackimages/ryanmorrissey/img/congrats-small.png",
+            "alt_text": "congratulations"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Congratulations to everyone on a fantastic April!* :clapping: \nLet's take a moment to recognize some of our outstanding teammates for their accomplishments last month."
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*April MVP:* Dean Herback"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "<@dherback> had an outstanding April, jumping *20 points* in the SC Constructors' Championship. He had key wins at *Converge Technology Partners* _(Marc)_ and *PlayStudios* _(Peter)_, and was able to help out as a secondary SC on Canada West _(SuitePeople)_ and Gibraltar _(WO&A qual)_. Lastly, he helped ramp some SW and GB folks on OpenAir, and presented on the OpenAir Product Roadmap call. His leadership and continued success make him a key member of the Services vertical and a great teammate. Congrats Dean!"
+            }
+        },
+        {
+            "type": "image",
+            "title": {
+                "type": "plain_text",
+                "text": "Dean \"The Duke\" Herback",
+                "emoji": true
+            },
+            "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQF2onXrqC6Ecg/profile-displayphoto-shrink_800_800/0?e=1594252800&v=beta&t=PxHHlCSf6msjX3mNZPw2Ii1QAFQB9EfwmmvotxyuK9U",
+            "alt_text": "Dean Herback"
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*4* Engagements"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$181k* Lead ARR"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*2* Logos"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$334k* Gross ARR"
+                }
+            ]
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Shout Out:* Danielle Lau"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "<@danlau> had a wonderful April closing two key deals in the MM (one for Team Peck, one for Team Nick). Her win at *Macgregor Partners* was a rookie win for rep Jack Kieckhafer, and the alignment she ran at *Enterprise Networking Solutions* with Connor Thomas was so smooth the finance team interrupted at one point and told her this was the best presentation they had ever seen and they couldn't believe how much she knew about the NetSuite product - a key factor to us winning this deal so quickly. Well done Danielle!"
+            },
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*2* Logos"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$132k* Lead ARR"
+                }
+            ],
+            "accessory": {
+                "type": "image",
+                "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQGgThJ1-aPu3w/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=a3COOkjtY7ryjNeJqcfoOH2RQMndbDXMCn0xoybeDI4",
+                "alt_text": "Danielle Lau"
+            }
+        },
+        
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Shout Out:* Kim Lawton"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "<@klawton> was our projects extraordinaire in April, closing both an EM OpenAir deal and a MM SuiteProjects deal. Her cycle at *Gibraltar* with Dan Tarbotten was one of the toughest I have personally seen at my time here: Kim led 6 hours of alignments, 4 hours of dry runs, and 2 hrs of exec use case demoing - all for the same participants and all around SuiteProjects. Her patience and highly tailored demo prep were what finally won over the COO and CEO on the final presentation. Kim also has been leading the charge on our *Leading Practice Task Force* which is going to make our SC leading practices easier to follow and more impactful for ramping and demoing. Thanks for sticking with it in April Kim!"
+            },
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*3* Engagements"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$84k* Lead ARR"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*2* Logos"
+                }
+            ],
+            "accessory": {
+                "type": "image",
+                "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQF1hZFPGtVOaw/profile-displayphoto-shrink_200_200/0?e=1594252800&v=beta&t=3KyDqQmyDgatinJFPfV6-Jz1rC7vP2S8RVHKuPseaOc",
+                "alt_text": "Kim Lawton"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Shout Out:* Laura Van Lenten"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "<@lvanlent> had a nice, clean sales cycle at *Bluberi Gaming* helping Adam Fay get back on the \" ring ring\" chain for Team Nick. Her cross-vertical work as secondary SC on Persefoni AI _(SuitePeople, SW EM)_ and National Switchgear Systems _(Job Costing, WD MM)_ helped bring in 2 additional logos for April as well. She also worked with John Szabo to build out a *Cash Visibility* PPT to help sales message why CFOs and CEOs should seriously consider looking at NetSuite even during a down economy. This is a great supplement to the _Open For Business_ campaigns the marketing team is running. Thanks for sharing your expertise in finance, Laura!"
+            },
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*2* Engagements"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$42k* Lead ARR"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*1* Logo"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*$136k* Gross ARR"
+                }
+            ],
+            "accessory": {
+                "type": "image",
+                "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEjFltMV4nMBg/profile-displayphoto-shrink_800_800/0?e=1594252800&v=beta&t=a3qWc3k2TzRZJZ3_ubAMw2_S2e5OWlHtMywYdHiFUaY",
+                "alt_text": "Laura Van Lenten"
+            }
+        },
+        {
+            "type": "divider"
+        }
+    ]
+}
