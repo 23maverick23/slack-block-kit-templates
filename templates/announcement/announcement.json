@@ -1,0 +1,48 @@
+{
+    "blocks": [
+        {
+            "type": "divider"
+        },
+        {
+            "type": "image",
+            "title": {
+                "type": "plain_text",
+                "text": "SuiteFoundation Certified - 17 May 2020",
+                "emoji": true
+            },
+            "image_url": "https://www.oracle.com/webfolder/technetwork/slackimages/ryanmorrissey/img/certified-suite-foundation.jpg",
+            "alt_text": "SuiteFoundation Certified"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "Congratulations to *Laura Van Lenten* (_Direct Services MM/Corp_) on passing her SuiteFoundation certification!"
+            },
+            "accessory": {
+                "type": "image",
+                "image_url": "https://media-exp1.licdn.com/dms/image/C4E03AQEjFltMV4nMBg/profile-displayphoto-shrink_800_800/0?e=1595462400&v=beta&t=6bmvU38u-bThIbLnldto3u0KY7TjPaaZ75_ecrT0xs0",
+                "alt_text": "headshot"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": ":clapping: Way to go <@lvanlent>!"
+            },
+            "accessory": {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": ":linkedin: Connect",
+                    "emoji": true
+                },
+                "url": "https://www.linkedin.com/in/laura-van-lenten-cpa-71b85922/"
+            }
+        },
+        {
+            "type": "divider"
+        }
+    ]
+}
