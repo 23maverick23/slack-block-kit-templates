@@ -16,6 +16,7 @@ Click this link to access the [Block Kit Builder][url].
 
 [url]: https://api.slack.com/tools/block-kit-builder
 
+[tmp-announcement]: /templates/announcement/
 [tmp-document-share]: /templates/document-share/
 [tmp-simple-poll]: /templates/simple-poll/
 [tmp-forecast-call]: /templates/forecast-call/
