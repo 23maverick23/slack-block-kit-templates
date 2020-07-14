@@ -1,0 +1,59 @@
+{
+    "blocks": [
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "The Services SC team has created a *Rev Rec Setup Guide* for anyone looking to show Project and Sales Order based Rev Rec scenarios for Services organizations. Since Project based Rev Rec using Revenue Management is not well documented, this guides helps ensure your account is setup properly ahead of an alignment."
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Project Rev Rec Setup Doc.docx*"
+            },
+            "accessory": {
+                "type": "button",
+                "text": {
+                    "type": "plain_text",
+                    "text": "Click to Download",
+                    "emoji": true
+                },
+                "style": "primary",
+                "url": "https://oradocs-prodapp.cec.ocp.oraclecloud.com/"
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "This new document covers common scenarios and exceptions, as well as setup screenshots which match the *Stairway for Services US* dataset."
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "Shout out to <@danlau> who ran point on this project and helped build out all the content in the doc. Thanks for all the hard work Danielle! Also thanks to <@trancour> for validating the use cases, and <@vkroll> for doing testing in the dataset."
+            },
+            "accessory": {
+                "type": "image",
+                "image_url": "https://media-exp1.licdn.com/dms/image/",
+                "alt_text": "headshot"
+            }
+        },
+        {
+            "type": "divider"
+        }
+    ]
+}
