@@ -13,6 +13,7 @@ Click this link to access the [Block Kit Builder][url].
 * [month-mvp][tmp-month-mvp]
 * [calendar-reminder][tmp-calendar-reminder]
 * [calendar-invite][tmp-calendar-invite]
+* [demo-release][tmp-demo-release]
 
 [url]: https://api.slack.com/tools/block-kit-builder
 
@@ -23,3 +24,4 @@ Click this link to access the [Block Kit Builder][url].
 [tmp-month-mvp]: /templates/month-mvp/
 [tmp-calendar-reminder]: /templates/calendar-reminder/
 [tmp-calendar-invite]: /templates/calendar-invite/
+[tmp-demo-release]: /templates/demo-release/

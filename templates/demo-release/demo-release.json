@@ -1,0 +1,121 @@
+{
+    "blocks": [
+        {
+            "type": "image",
+            "title": {
+                "type": "plain_text",
+                "text": "Demo Excellence",
+                "emoji": true
+            },
+            "image_url": "https://www.oracle.com/webfolder/technetwork/slackimages/daveslaughterns/suitedemomemobannersmall.png",
+            "alt_text": "Example Image"
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*OpenAir Demo Announcement*"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "The OpenAir demo server will be *upgraded to the 2020.2 release* this weekend on *Sat 19 Sep 2020*, which means all demo accounts will soon be running the new release. Demo servers will be down from *6 AM ET to no later than 12 PM ET* to complete the update."
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": "*Highlights of this Release*"
+            }
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "plain_text",
+                    "text": "• NS Connector workflow scheduling",
+                    "emoji": true
+                },
+                {
+                    "type": "plain_text",
+                    "text": "• NS 20.1 endpoint support",
+                    "emoji": true
+                },
+                {
+                    "type": "plain_text",
+                    "text": "• Bookings in Project Center",
+                    "emoji": true
+                },
+                {
+                    "type": "plain_text",
+                    "text": "• Tag custom field type",
+                    "emoji": true
+                },
+                {
+                    "type": "plain_text",
+                    "text": "• UI updates for nav, lists, headers",
+                    "emoji": true
+                },
+                {
+                    "type": "plain_text",
+                    "text": "• Multi-currency list views",
+                    "emoji": true
+                }
+            ]
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text",
+                        "text": "Sneak Peak Release Notes",
+                        "emoji": true
+                    },
+                    "value": "Sneak Peak Release Notes",
+                    "url": "https://nlcorp.app.netsuite.com/core/media/media.nl?id=220868113&c=NLCORP&h=556dad29ed36644dcd58&_xt=.pdf"
+                }
+            ]
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": "For more information or questions after the release, please post a message in #ns-ww-sc-openair."
+                }
+            ]
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": "Audience: <!channel>"
+                }
+            ]
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
+                    "type": "mrkdwn",
+                    "text": "Release Date: Sep 19, 2020"
+                }
+            ]
+        }
+    ]
+}
